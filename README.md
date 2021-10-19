@@ -1,5 +1,2 @@
-# hubtoolsimtooltemplate
-Repository template for SimTool HUBzero tool
-
-.keep files are present to force git to track initially empty directories.
-Should the directories become populated the .keep file can be removed.
+# Gateways21 Tutorial
+Based on HUBzero Sim2L HUBzero tool template.
